@@ -18,6 +18,7 @@
     "vite": "^2.3.8"
   },
   "dependencies": {
-    "@supabase/supabase-js": "^1.15.1"
+    "@supabase/supabase-js": "^1.15.1",
+    "svelte-images": "^0.0.95"
   }
 }
